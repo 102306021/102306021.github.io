@@ -1,18 +1,20 @@
-h3{
-	color:green;
-	font-size: 40px;
+div{
+	font-size: 60px;
+	width: 290px;
+	height: 70px;
+	text-align: right;
+	
 }
-p{
-	color: green;
-	font-size: 20px;
+label{
+	font-size: 60px;
+	
+}
+button{
+	font-size: 60px;
+	color:white;
+	background: #33CCFF;
+	width:70px;
+	height:70px;
+	padding: center;
 
-}
-#header{
-	color:green;
-	font-size: 30px;
-}
-
-#list{
-	color:gray;
-	font-size:20px;
 }
